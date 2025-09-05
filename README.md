@@ -1,4 +1,3 @@
-# Harsh-Prasad
 <h1 align="center">👋 Hi, I'm Harsh Prasad </h1> 
 <h3 align="center">"Bytes of Dreams, Compiled into Reality.” </h3>
 
